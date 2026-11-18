@@ -1,0 +1,16 @@
+loja-universal/
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── app.js
+│
+├── data/
+│   ├── products.json
+│   └── orders.json
+│
+├── server.js
+│
+├── package.json
+│
+└── README.md
